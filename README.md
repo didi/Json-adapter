@@ -8,3 +8,4 @@ This project is based on Jackson, and it provides fastjson APIs.
 
 # v1.0.0
 - 正式版本发布。
+test
