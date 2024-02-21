@@ -10,3 +10,4 @@ This project is based on Jackson, and it provides fastjson APIs.
 - 正式版本发布。
 test
 - test2
+- test3
