@@ -11,3 +11,4 @@ This project is based on Jackson, and it provides fastjson APIs.
 test
 - test2
 - test3
+- test4
